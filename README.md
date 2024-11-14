@@ -8,6 +8,8 @@ This Power BI dashboard provides a comprehensive view of sales data, enabling us
   * Sales by State: A bar chart showing sales data at the state level.
   * Sales by Region: A bar chart illustrating sales trends across various regions.
   * Sales by Market: A bar chart comparing sales performance across different markets.
+![Global super store Sales Analysis Aneesh Murali Nariyampully](https://github.com/user-attachments/assets/b6eabfcb-5eaf-41e7-852c-45cd08f14bf7)
+
 
 ### Features:
   * Interactive Visualizations: Users can drill down into specific regions or markets to explore data in more detail.
@@ -21,7 +23,7 @@ This Power BI dashboard provides a comprehensive view of sales data, enabling us
 ### 
 **Video Demo:**
 
-[Click here to watch the demo video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.linkedin.com/posts/aneeshmuralinariyampully_powerbi-dataanalytics-businessintelligence-activity-7262827023750836224-idOc?utm_source=share&utm_medium=member_desktop))
+[Click here to watch the demo video](https://www.linkedin.com/posts/aneeshmuralinariyampully_powerbi-dataanalytics-businessintelligence-activity-7262827023750836224-idOc?utm_source=share&utm_medium=member_desktop)
 
 ### License:
     This project is licensed under the MIT License.
